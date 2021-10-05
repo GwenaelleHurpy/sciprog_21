@@ -1,0 +1,18 @@
+Conversion program details.
+
+Conversion.c program converts floating point variable into binary number variable using.
+
+It is written in C.
+
+Library needed: math.h and stdio.h .
+
+First,it declares the variable
+
+Then it converts integer number in floating point
+
+And it converts floating point in binary numbe
+
+Finaly, printf function  prints the number of digit of the binary number ans  the integer, floating point and binary  number
+
+The program is compiled by  using the following command  gcc -o Conversion_c Conversion. -lm. The -lm command adds the math library needed for the compilation.
+
