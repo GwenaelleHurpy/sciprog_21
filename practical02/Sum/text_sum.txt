@@ -1,0 +1,14 @@
+Sum program detail
+
+This program makes two sums of floating point variables and print if the diffence between them using C.
+
+Library needed studio.h
+
+First, we declare the variables. There are integers and float point variables
+
+Then we for loop to sum and print the 2 sum results 
+
+Finally, the program calculs the difference between sum1 and sum2 and prints the result 
+
+Compile the program using gcc -o Sum_c Sum.c
+
