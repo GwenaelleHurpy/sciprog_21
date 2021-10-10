@@ -1,0 +1,13 @@
+In practical03 we used the printf function and create a code computing an trapezodial area. 
+Programs are in C. 
+
+Printf code
+Library needed
+stdio.h
+To compile  printf.c use "gcc printf.c -o printf_c"
+
+Trapezodial code
+Library needed stdio.h and math.h
+To compile trapezodial.c use "gcc trapezodial.c -o trapezodial_c -lm"
+
+
