@@ -1,0 +1,15 @@
+In this practical we use program blocks to calculat the trapezodial area. The results are stored into array. 
+
+The two  programs are  writen in C. 
+Library needed stdio.h and math.h
+
+The trapezoidal2.c program calculates the value of tan(x) where x is in radians in the range of [0,60]. 
+
+Function is  used to convert deg to radian
+
+The trapezodial3.c program calculates the value under the curve of tan(x) [0,60] degrees using trapezoidal rule. 
+
+Function is used to calculate the area using trapezoidal rule.
+
+To compile the two programs  use -lm .
+ 
